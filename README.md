@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Raffi aka @irayshi
 
-<!--
-**irayshi/irayshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Flutter Developer | 🛠 Laravel Backend | 🎨 UI/UX Explorer  
+🌱 Currently learning Data Science & System Infrastructure  
+🏢 Working in textile industry | 🎓 First-year Informatics student at UT
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- 💻 Flutter, Dart, Laravel, MySQL
+- 🎨 Figma, TailwindCSS
+- 🐧 Ubuntu Linux, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+- 🔵 Textile Color Recipe App (Flutter)
+- 📦 Android Inventory System (Laravel + Flutter)
+- 💻 Flutter Admin Dashboard (Responsive)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irayshi&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- ✉️ Email: kamu@email.com
+- 🌐 Website: https://yourwebsite.com
+- 💼 LinkedIn: https://linkedin.com/in/namamu
