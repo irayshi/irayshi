@@ -18,6 +18,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irayshi&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- ✉️ Email: kamu@email.com
-- 🌐 Website: https://yourwebsite.com
-- 💼 LinkedIn: https://linkedin.com/in/namamu
+- ✉️ Email: raffiirayshi@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/irayshi
